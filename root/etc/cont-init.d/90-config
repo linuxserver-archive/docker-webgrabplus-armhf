@@ -1,0 +1,20 @@
+#!/usr/bin/with-contenv bash
+
+echo '
+******************************************************
+******************************************************
+*                                                    *
+*                                                    *
+*          This image has been deprecated            *
+*                                                    *
+*           Use the multi-arch images at             *
+*                                                    *
+*               linuxserver/webgrabplus              *
+*                                                    *
+*    https://hub.docker.com/r/linuxserver/webgrabplus*
+*                                                    *
+*   https://github.com/linuxserver/docker-webgrabplus*
+*                                                    *
+*                                                    *
+*                                                    *
+******************************************************'
